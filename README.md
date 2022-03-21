@@ -10,7 +10,10 @@ Rasbery pi 2,3,4, other
 
 ### Installation
 ```bash
-git clone https://github.com/atcoolart/cloudflare-ddns-update
+sudo apt install git -y
+```
+```bash
+git clone https://github.com/atcoolart/cloudflare-ddns
 ```
 
 ```bash
