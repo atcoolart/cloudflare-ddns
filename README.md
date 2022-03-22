@@ -1,4 +1,4 @@
-## cloudflare-ddns-update
+## cloudflare-ddns
 Automatic change dynamic IP address to without a static IP -> BASH.
 
 ## Support
@@ -31,7 +31,7 @@ bash cloudflare.sh
 This script is used with crontab or cronjob.
 
 ```bash
-*/5 * * * * /bin/bash /root/cloudflare-ddns-update/cloudflare.sh
+*/5 * * * * /bin/bash /root/cloudflare-ddns/cloudflare.sh
 ```
 
 ### Donate
